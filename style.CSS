@@ -1,0 +1,49 @@
+.Page {
+
+    background-color: rgb(50, 125, 55);
+    margin : 10px;
+    border-width : 5px;
+    padding: 10px;
+
+}
+
+.Page_Division{
+
+    background-color: black;
+    padding: 10px;
+
+}
+
+.Top_Heading {
+
+    text-align: center;
+    color: rgb(255, 255, 103);
+
+}
+
+.Heading{
+
+    color: rgb(255, 255, 103);
+    text-align: left;
+
+}
+
+.text {
+
+    color: rgb(255, 255, 103);
+
+}
+
+.IMG {
+
+    width: 300px;
+    margin-left: 54px;
+    
+}
+
+.txt {
+
+    color: rgb(255, 255, 103);
+    text-align: center;
+
+}
